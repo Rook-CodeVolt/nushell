@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **CodeVolt-owned fork.** This repository is a fork of [`nushell/nushell`](https://github.com/nushell/nushell), retained by CodeVolt only for bounded upstream contribution and evaluation work. Project governance, releases, support, and maintenance remain with the upstream maintainers. The upstream README is preserved below.
+
 # Nushell <!-- omit in toc -->
 [![Crates.io](https://img.shields.io/crates/v/nu.svg)](https://crates.io/crates/nu)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/nushell/nushell/ci.yml?branch=main)](https://github.com/nushell/nushell/actions)
